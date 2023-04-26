@@ -1,6 +1,8 @@
 # dio-desagio-github-primeiro-repositorio
-desafio de projeto sobre git
 
+Reposito criado para  o desafio de projeto
 
 ## Links uteis
-[Sintaxe Basica Markdown]  
+[Sintaxe Basica Markdown](https://markdown.net.br/sintaxe-basica/)
+
+
