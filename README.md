@@ -2,5 +2,5 @@
 desafio de projeto sobre git
 
 
-## Links uteis ##
+## Links uteis
 [Sintaxe Basica Markdown]  
